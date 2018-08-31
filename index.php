@@ -1,4 +1,4 @@
 <?php
-	echo "This is Hello world program here chnages";
+	echo "This is Hello world program ...";
 ?>
 
